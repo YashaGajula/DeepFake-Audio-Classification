@@ -3,10 +3,14 @@ Deepfake technology, encompassing the manipulation of audio and video content, p
 # Dataset: 
 ASVspoof 2019 dataset containing genuine and spoof audio recordings.
 
-FakeorReal - for-2sec containing real or fake audio recordings
+FakeorReal - for-2sec containing real or fake audio recordings.
+
 Preprocessing: Convert audio files to Mel spectrograms, augment training data.
+
 Model Architecture: Convolutional Neural Network (CNN) with classification layers.
+
 Training: Binary cross-entropy loss, Adam optimizer
+
 Evaluation: Accuracy, ROC curve, Calibration curve, EER.
 ![image](https://github.com/YashaGajula/DeepFake-Audio-Classification/assets/170789442/fcd8d155-6454-404e-a28c-af2cc29670d1)
 
