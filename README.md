@@ -3,7 +3,8 @@ Deepfake technology, encompassing the manipulation of audio and video content, p
 # Dataset: 
 ASVspoof 2019 dataset containing genuine and spoof audio recordings. [https://www.kaggle.com/datasets/awsaf49/asvpoof-2019-dataset]
 
-FakeorReal - for-2sec containing real or fake audio recordings.
+FakeorReal - for-2sec containing real or fake audio recordings. 
+I didn't own this dataset. Datasets created by members of the APTLY lab can be found here: [https://bil.eecs.yorku.ca/datasets/]
 
 Preprocessing: Convert audio files to Mel spectrograms, augment training data.
 
